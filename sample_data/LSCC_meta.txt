@@ -1,0 +1,110 @@
+case_id	Age	Sex	Tumor_Size_cm	Histologic_Grade	Tumor_necrosis	Path_Stage_pT	Path_Stage_pN	Stage	BMI	Tobacco_smoking_history	KEAP1_mutation	FAT1_mutation	ARID1A_mutation	PIK3CA_mutation	TP53_mutation	CDKN2A_mutation	NOTCH1_mutation
+data_type	CON	BIN	CON	ORD	BIN	ORD	ORD	ORD	CON	ORD	BIN	BIN	BIN	BIN	BIN	BIN	BIN
+C3L-00081	61	Female	5	G2 Moderately differentiated	Not identified	pT2	pN1	Stage II	32.29	non-smoker	1	0	0	0	1	0	0
+C3L-00415	64	Female	6.5	G3 Poorly differentiated	Not identified	pT2	pN0	Stage II	27.64	past smoker	0	0	1	0	1	0	0
+C3L-00445	74	Male	5	G2 Moderately differentiated	Present	pT2	pN0	Stage II	29.98	past smoker	0	1	0	0	1	1	0
+C3L-00568	74	Female	4.7	G2 Moderately differentiated	Not identified	pT2	pN0	Stage I	28.52	past smoker	1	0	0	0	1	0	0
+C3L-00603	72	Male	3	G3 Poorly differentiated	Not identified	pT1	pN0	Stage I	35.68	past smoker	0	1	0	0	1	0	0
+C3L-00904	71	Male	4.4	G3 Poorly differentiated	Not identified	pT3	pN0	Stage II	19.47	current smoker	0	1	0	0	1	1	0
+C3L-00923	71	Female	3.5	G3 Poorly differentiated	Not identified	pT2	pN0	Stage I	36.76	past smoker	0	0	0	0	1	0	0
+C3L-00927	74	Male	3.5	G2 Moderately differentiated	Not identified	pT2	pN2	Stage III	26.31	current smoker	0	0	0	0	1	0	1
+C3L-00965	63	Male	4	G2 Moderately differentiated	Present	pT2	pN1	Stage II	23.53	past smoker	1	0	0	0	1	1	0
+C3L-00993	75	Male	6	G2 Moderately differentiated	Present	pT2	pN2	Stage III	22.72	non-smoker	0	0	0	0	1	0	0
+C3L-01000	59	Male	4.2	G3 Poorly differentiated	Present	pT2	pN0	Stage I	33.21	current smoker	1	0	0	0	1	0	0
+C3L-01285	54	Male	5	G2 Moderately differentiated	Not identified	pT2	pN1	Stage II	21.39	current smoker	0	0	0	0	1	0	0
+C3L-01455	88	Male	5	G3 Poorly differentiated	Not identified	pT2	pN1	Stage II	26.58	past smoker	0	0	0	0	0	0	0
+C3L-01606	66	Male	2.2	G2 Moderately differentiated	Not identified	pT2	pN0	Stage I	31.35	past smoker	0	0	0	0	1	0	0
+C3L-01663	73	Female	1.6	G3 Poorly differentiated	Not identified	pT1	pN2	Stage III	20.94	current smoker	0	0	0	1	1	1	0
+C3L-01838	70	Male	4	G2 Moderately differentiated	Present	pT2	pN0	Stage I	28.03	past smoker	0	0	0	0	1	0	0
+C3L-01884	74	Male	3	G2 Moderately differentiated	Not identified	pT1	pN0	Stage I	28.31	current smoker	0	0	1	0	1	0	0
+C3L-02127	66	Male	4	G2 Moderately differentiated	Present	pT2	pN0	Stage II	25.25	current smoker	0	0	0	0	1	0	1
+C3L-02130	70	Male	3.3	G2 Moderately differentiated	Present	pT2	pN0	Stage I	27.76	current smoker	0	0	0	0	1	0	0
+C3L-02163	57	Male	4.5	G2 Moderately differentiated	Present	pT2	pN1	Stage II	28.91	current smoker	0	0	0	0	1	0	1
+C3L-02164	58	Male	2.5	G2 Moderately differentiated	Present	pT3	pN0	Stage II	26.37	past smoker	0	0	0	0	0	0	0
+C3L-02168	66	Male	3.9	G1 Well differentiated	Present	pT3	pN0	Stage II	28.73	non-smoker	0	0	0	1	1	1	0
+C3L-02170	73	Male	4.5	G2 Moderately differentiated	Present	pT2	pN0	Stage I	33.75	past smoker	0	0	0	0	1	0	1
+C3L-02349	81	Female	1.9	G2 Moderately differentiated	Not identified	pT1	pN0	Stage I	18.37	current smoker	0	0	0	0	1	0	0
+C3L-02358	75	Female	4.4	G2 Moderately differentiated	Present	pT2	pN0	Stage I	30.82	past smoker	0	0	0	0	1	0	0
+C3L-02546	74	Male	4	G2 Moderately differentiated	Not identified	pT2	pN0	Stage I	24.7	past smoker	0	0	0	0	1	0	0
+C3L-02552	68	Male	3.7	G3 Poorly differentiated	Not identified	pT2	pN0	Stage I	31.82	current smoker	0	0	0	0	1	0	1
+C3L-02619	70	Male	8.5	G3 Poorly differentiated	Present	pT4	pN1	Stage III	36.23	current smoker	0	0	0	0	1	0	0
+C3L-02625	66	Male	3	G3 Poorly differentiated	Not identified	pT2	pN1	Stage II	26.4	past smoker	0	0	0	0	1	1	0
+C3L-02627	64	Female	2	G3 Poorly differentiated	Present	pT1	pN0	Stage I	27.34	current smoker	0	0	0	0	1	0	0
+C3L-02629	57	Male	8	G2 Moderately differentiated	Present	pT3	pN0	Stage II	31.64	past smoker	0	0	0	0	1	0	0
+C3L-02646	74	Male	5	G2 Moderately differentiated	Present	pT3	NA	Stage III	29.98	current smoker	0	0	0	0	1	0	0
+C3L-02648	72	Male	3	G3 Poorly differentiated	Present	pT2	pN0	Stage II	27.46	past smoker	0	0	0	0	1	0	0
+C3L-02649	62	Male	8.8	G3 Poorly differentiated	Present	pT3	pN2	Stage III	23.25	past smoker	1	0	0	1	1	0	0
+C3L-02650	53	Male	8	G2 Moderately differentiated	Present	pT3	pN2	Stage III	31.02	current smoker	0	0	0	1	1	1	0
+C3L-02660	72	Male	3	G3 Poorly differentiated	Present	pT2	pN2	Stage III	24.34	past smoker	0	0	1	0	1	0	1
+C3L-02665	51	Male	6	G2 Moderately differentiated	Not identified	pT3	NA	Stage II	25.25	current smoker	1	0	0	0	1	0	0
+C3L-02669	73	Male	4	G2 Moderately differentiated	Present	pT2	pN0	Stage II	20.76	past smoker	0	0	0	0	1	0	1
+C3L-02891	66	Female	2.7	G3 Poorly differentiated	Not identified	pT1	pN1	Stage II	22.86	past smoker	0	0	0	0	1	0	0
+C3L-02951	61	Male	4.8	G2 Moderately differentiated	Not identified	pT2	pN0	Stage II	24.56	current smoker	0	0	0	0	1	0	0
+C3L-02963	71	Male	3.2	G2 Moderately differentiated	Not identified	pT2	pN0	Stage I	20.95	current smoker	0	0	0	0	1	0	0
+C3L-02964	58	Male	4.5	G3 Poorly differentiated	Not identified	pT2	pN0	Stage II	26	current smoker	0	0	0	0	1	0	0
+C3L-02968	64	Male	6	G2 Moderately differentiated	Present	pT2	pN0	Stage II	25.66	past smoker	0	0	0	0	1	0	0
+C3L-02969	76	Male	3	G2 Moderately differentiated	Not identified	pT1	pN0	Stage I	34.21	past smoker	0	0	0	1	1	0	0
+C3L-03272	67	Male	7.3	G2 Moderately differentiated	Present	pT4	pN1	Stage IV	33.71	past smoker	1	0	0	0	1	0	0
+C3L-03678	49	Male	3.5	G3 Poorly differentiated	Present	pT2	pN2	Stage III	36.49	past smoker	0	0	0	0	1	0	0
+C3L-03961	48	Female	3	G2 Moderately differentiated	Present	pT2	pN0	Stage I	29	current smoker	0	0	0	0	1	0	0
+C3L-03962	65	Male	2	G3 Poorly differentiated	Present	pT2	pN0	Stage I	23.67	current smoker	0	0	0	1	1	0	0
+C3L-03963	73	Male	6	G3 Poorly differentiated	Present	pT3	pN0	Stage II	29.41	current smoker	0	0	0	0	1	0	0
+C3L-03965	54	Male	4.2	G2 Moderately differentiated	Present	pT2	pN2	Stage III	37.02	past smoker	0	0	0	0	1	1	0
+C3L-04013	61	Male	8	G3 Poorly differentiated	Present	pT3	pN0	Stage II	26.45	current smoker	0	0	0	0	1	0	1
+C3L-04014	57	Male	2	G3 Poorly differentiated	Present	pT1	pN0	Stage I	24.34	current smoker	0	0	0	0	1	0	0
+C3L-04071	69	Male	2.9	G3 Poorly differentiated	Not identified	pT2	pN0	Stage I	24.96	past smoker	0	0	0	0	1	0	0
+C3L-04391	70	Male	3.8	G2 Moderately differentiated	Not identified	pT2	pN0	Stage I	23.03	past smoker	0	0	0	0	1	0	1
+C3N-00211	40	Male	4.5	G3 Poorly differentiated	Not identified	pT2	pN2	Stage III	38.74	non-smoker	0	0	0	0	1	0	0
+C3N-00221	78	Male	4.7	G2 Moderately differentiated	Present	pT3	pN0	Stage III	26.43	past smoker	0	1	0	0	1	0	0
+C3N-00247	77	Female	2.2	G3 Poorly differentiated	Not identified	pT1	pN1	Stage II	27.45	past smoker	0	0	0	0	0	0	0
+C3N-00497	64	Female	5	G2 Moderately differentiated	Not identified	pT2	pN1	Stage II	20.96	past smoker	0	0	0	0	1	0	0
+C3N-00555	59	Male	5.5	G2 Moderately differentiated	Not identified	pT3	pN0	Stage II	20.42	current smoker	0	1	0	0	1	0	0
+C3N-01017	56	Male	3.5	G2 Moderately differentiated	Present	pT3	pN0	Stage II	20.07	current smoker	0	0	0	0	1	0	0
+C3N-01020	65	Male	4	G3 Poorly differentiated	Present	pT2	pN0	Stage I	19.11	non-smoker	0	0	0	0	1	0	0
+C3N-01025	52	Male	10	G3 Poorly differentiated	Present	pT3	pN0	Stage II	22.32	current smoker	1	0	0	0	1	1	1
+C3N-01028	72	Male	5	G3 Poorly differentiated	Present	pT2	pN0	Stage I	21.11	non-smoker	1	0	1	0	1	0	0
+C3N-01194	69	Male	4	G3 Poorly differentiated	Not identified	pT2	pN0	Stage I	31	current smoker	0	0	0	0	1	1	0
+C3N-01411	64	Male	4	G3 Poorly differentiated	Present	pT2	pN0	Stage I	16.61	non-smoker	0	0	0	0	1	0	0
+C3N-01846	70	Male	4	G2 Moderately differentiated	Not identified	pT2	NA	Stage I	25.51	non-smoker	0	0	0	0	1	0	0
+C3N-01892	77	Male	6.5	G2 Moderately differentiated	Not identified	pT3	pN0	Stage II	30	NA	0	0	0	0	1	0	0
+C3N-01893	70	Male	5.1	G2 Moderately differentiated	Present	pT3	pN1	Stage III	25.15	NA	0	1	0	1	1	0	1
+C3N-02252	68	Female	NA	G3 Poorly differentiated	NA	NA	NA	NA	NA	NA	0	0	0	0	1	0	0
+C3N-02283	67	Male	4.1	NA	Not identified	pT2	pN1	Stage II	29	past smoker	0	0	0	0	1	0	0
+C3N-02284	69	Male	5	G2 Moderately differentiated	Not identified	pT3	pN0	Stage II	25.71	current smoker	0	1	1	0	1	0	1
+C3N-02285	72	Female	5	G2 Moderately differentiated	Present	pT3	pN0	Stage II	26.37	past smoker	0	0	0	1	1	0	0
+C3N-02288	58	Female	8	G2 Moderately differentiated	Not identified	pT3	pN0	Stage III	25.3	past smoker	0	0	0	0	1	0	0
+C3N-02289	73	Male	5	G2 Moderately differentiated	Present	pT2	pN0	Stage II	23.15	past smoker	0	0	0	0	1	0	0
+C3N-02300	69	Female	5.6	G2 Moderately differentiated	Not identified	pT3	pN0	Stage II	30	NA	0	0	0	0	1	0	0
+C3N-02339	78	Male	7	G2 Moderately differentiated	Present	pT2	pN0	Stage II	31.1	non-smoker	0	0	0	0	0	0	0
+C3N-02374	67	Male	9	G2 Moderately differentiated	Not identified	pT2	pN1	Stage II	22.48	past smoker	0	0	0	0	1	0	0
+C3N-02375	59	Male	3.5	G3 Poorly differentiated	Not identified	pT2	pN0	Stage II	22.65	past smoker	0	0	1	0	1	0	0
+C3N-02425	61	Male	7	G3 Poorly differentiated	Not identified	pT2	pN0	Stage II	21.51	current smoker	0	0	0	0	1	0	0
+C3N-02426	69	Female	2	G3 Poorly differentiated	Present	pT1	pN0	Stage I	24.03	non-smoker	0	0	0	0	0	0	0
+C3N-02434	74	Male	4.5	G2 Moderately differentiated	Not identified	pT2	pN0	Stage I	40.6	past smoker	0	0	0	0	1	0	0
+C3N-02435	64	Female	3.2	G2 Moderately differentiated	Not identified	pT2	pN1	Stage II	23.59	past smoker	0	0	1	0	1	0	0
+C3N-02494	66	Female	3	G3 Poorly differentiated	Not identified	pT1	pN0	Stage I	NA	NA	0	0	0	0	0	0	0
+C3N-02523	61	Male	2	G2 Moderately differentiated	Not identified	pT1	pN0	Stage I	NA	NA	0	1	0	0	1	0	0
+C3N-02575	69	Male	2.5	G2 Moderately differentiated	Not identified	pT1	pN0	Stage I	23.51	past smoker	0	0	1	0	1	0	0
+C3N-02675	69	Male	1.7	G2 Moderately differentiated	Not identified	pT3	pN2	Stage III	27	past smoker	0	0	0	0	1	0	1
+C3N-03051	65	Male	5	G3 Poorly differentiated	Not identified	pT2	pN2	Stage III	25.51	current smoker	0	1	1	1	1	1	0
+C3N-03072	62	Male	3.2	G3 Poorly differentiated	Not identified	pT2	pN2	Stage III	31.02	past smoker	1	0	0	0	1	0	0
+C3N-03076	68	Male	4.4	G3 Poorly differentiated	Present	pT2	pN0	Stage II	19.38	current smoker	0	0	0	0	1	1	0
+C3N-03092	61	Male	NA	G2 Moderately differentiated	NA	NA	NA	NA	NA	NA	0	0	1	0	1	0	0
+C3N-03093	70	Female	NA	G3 Poorly differentiated	NA	NA	NA	NA	NA	NA	0	0	0	0	1	0	0
+C3N-03204	62	Male	3	G2 Moderately differentiated	Not identified	pT1	pN0	Stage I	26.73	current smoker	1	0	0	0	1	0	0
+C3N-03424	74	Male	1.2	G3 Poorly differentiated	Present	pT1	pN0	Stage I	25.21	past smoker	0	0	0	0	1	0	0
+C3N-03425	64	Female	3	G2 Moderately differentiated	Present	pT2	pN0	Stage I	21.19	past smoker	0	0	0	0	1	0	0
+C3N-03441	67	Male	3	G3 Poorly differentiated	Present	pT1	pN2	Stage III	18.96	past smoker	0	1	1	0	1	0	0
+C3N-03486	65	Male	3	NA	Present	pT1	pN0	Stage I	23.39	non-smoker	0	0	0	1	1	1	0
+C3N-03662	64	Male	4	G2 Moderately differentiated	Present	pT2	pN1	Stage II	26.23	non-smoker	1	0	0	0	1	0	0
+C3N-03848	56	Female	3.5	G3 Poorly differentiated	Not identified	pT2	pN2	Stage III	26.04	non-smoker	0	0	0	0	1	0	0
+C3N-03851	44	Male	4.5	G3 Poorly differentiated	Not identified	pT2	pN1	Stage II	23.67	current smoker	0	0	0	0	1	0	0
+C3N-03875	68	Male	4.8	G3 Poorly differentiated	Not identified	pT2	pN0	Stage I	24.44	past smoker	0	0	1	0	1	1	0
+C3N-03877	53	Male	7	G3 Poorly differentiated	Not identified	pT3	pN0	Stage III	26.28	current smoker	0	0	0	0	1	0	0
+C3N-03880	76	Male	2.2	G2 Moderately differentiated	Not identified	pT1	pN1	Stage II	29.41	current smoker	0	0	0	0	1	0	0
+C3N-03882	68	Male	4	G3 Poorly differentiated	Not identified	pT2	pN1	Stage II	24.8	past smoker	0	0	0	0	1	0	0
+C3N-03886	60	Male	4.2	NA	Present	pT2	pN0	Stage I	29.99	non-smoker	0	0	0	0	1	0	1
+C3N-04124	62	Male	3.5	G3 Poorly differentiated	Present	pT2	pN0	Stage I	21.01	current smoker	0	0	0	0	1	0	0
+C3N-04127	63	Male	5	G2 Moderately differentiated	Not identified	pT2	pN2	Stage III	21.16	current smoker	0	0	0	0	1	0	0
+C3N-04155	76	Male	2.5	G2 Moderately differentiated	Present	pT1	pN0	Stage I	31.62	non-smoker	1	0	1	1	1	0	0
+C3N-04162	46	Male	6	G2 Moderately differentiated	Present	pT2	pN0	Stage II	22.65	non-smoker	0	0	0	0	0	1	0
